@@ -10,10 +10,10 @@ This project seeks to provide an example of a deployable web application built w
 * Stripe for all things ecommerce.
 
 ## Todos
-[] Create new Next.js site
-[] Configure data storage with Firebase
-[] Configure authentication with Firebase
-[] Configure Stripe to tell the site when it's okay to display content
+- [ ] Create new Next.js site
+- [ ] Configure data storage with Firebase
+- [ ] Configure authentication with Firebase
+- [ ] Configure Stripe to tell the site when it's okay to display content
 
 ...and write about every step as the "unknown unknowns" emerge!
 
